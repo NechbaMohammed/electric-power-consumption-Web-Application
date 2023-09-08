@@ -49,7 +49,7 @@ def show_predict_page():
 
     # Add a header section
     st.title('Power Consumption Prediction')
-    st.write('Enter the features on the sidebar and click "Predict" to see the power consumption predictions for each zone.')
+    st.write('Enter the features and click "Predict" to see the power consumption predictions for each zone.')
 
 
     # Add input fields for features
